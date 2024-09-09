@@ -4,13 +4,15 @@ Welcome to my GitHub profile! I’m a passionate developer with a focus on scala
 
 - 🌟 **Core Skills:** TypeScript, Svelte, Vue, Ruby, Python, Docker
 - 🚀 **Current Projects:** 
-  - [My Custom Chatbot](https://github.com/tashua314/CustomChatbot): A chatbot interface built with SvelteKit and Tailwind CSS, integrated with Dify's chatbot API.
-  - [Dockerized Rails App](https://github.com/tashua314/Dockerized-Rails): A Rails app fully containerized with Docker, streamlining the deployment process with ease.
+  - [Gist Portfolio](https://github.com/tashua314/gist-portfolio): A modern portfolio to showcase Gist scripts, built with SvelteKit and Tailwind CSS.
+  - [KoiTre Authentication](https://github.com/techguide-jp/koi-tre-auth): An authentication system built for KoiTre, focusing on security and scalability using modern web technologies.
 - 💻 **Interests:**
   - Open-source contributions
   - Building scalable web applications
   - Experimenting with machine learning and AI
   - Developer experience & productivity enhancements
+- 🏢 **Organizations:**
+  - I’m the representative of [TechGuide JP](https://github.com/techguide-jp), where we focus on providing digital support and solutions for entrepreneurs and developers.
 
 ---
 
@@ -34,6 +36,10 @@ Welcome to my GitHub profile! I’m a passionate developer with a focus on scala
 ![GitHub Streak](https://streak-stats.demolab.com?user=tashua314&theme=radical)
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=tashua314&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tashua314&theme=radical)
+
+[![Contributions Widget](https://github-contributions-widget.vercel.app/api?username=tashua314)](https://github.com/jakeleboeuf/github-contributions-widget)
 
 ---
 
