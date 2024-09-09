@@ -37,9 +37,11 @@ Welcome to my GitHub profile! I’m a passionate developer with a focus on scala
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=tashua314&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tashua314&theme=radical)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tashua314&bg_color=d9d1ff&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Contributions Widget](https://github-contributions-widget.vercel.app/api?username=tashua314)](https://github.com/jakeleboeuf/github-contributions-widget)
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/m0vgi0r0lk1jheqj4jm0" alt="trackgit-views" />
+</a>
 
 ---
 
