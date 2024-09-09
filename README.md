@@ -18,12 +18,14 @@ Welcome to my GitHub profile! I’m a passionate developer with a focus on scala
 
 ## 🚀 Technologies & Tools I Use
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&style=flat-square)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30"/>
+</p>
 
 ---
 
@@ -44,28 +46,6 @@ Welcome to my GitHub profile! I’m a passionate developer with a focus on scala
 <a href="https://trackgit.com">
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/m0vgi0r0lk1jheqj4jm0" alt="trackgit-views" />
 </a>
-
-![](https://komarev.com/ghpvc/?username=tashua314&color=green)
-
----
-
-## 🔧 Projects I'm Proud Of
-
-Here are some of the repositories I’ve worked on that I’m particularly proud of:
-
-- **[Custom Chatbot Interface](https://github.com/tashua314/CustomChatbot):** Built with SvelteKit and Tailwind CSS, this project integrates with Dify's chatbot API, offering a seamless chat experience with distinct user and bot messages.
-- **[Dockerized Rails App](https://github.com/tashua314/Dockerized-Rails):** A fully containerized Rails application using Docker and Docker Compose for streamlined development and deployment processes.
-- **[TypeScript Config Package](https://github.com/tashua314/typescript-config):** A reusable TypeScript configuration setup for scalable projects, enhancing developer productivity and ensuring consistency across the codebase.
-
----
-
-## 🌱 Currently Learning
-
-I'm constantly expanding my skill set and learning about the latest technologies. Here’s what I’m currently focusing on:
-
-- **Advanced TypeScript:** Exploring generics, utility types, and type-level programming.
-- **NestJS:** Diving deeper into backend development with NestJS for building efficient and scalable server-side applications.
-- **Machine Learning:** Experimenting with Python and TensorFlow to build basic machine learning models for data-driven applications.
 
 ---
 
