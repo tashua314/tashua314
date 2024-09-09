@@ -1,15 +1,16 @@
 # 👋 Hi there! I'm Tashua314
 
-Welcome to my GitHub profile! I’m a passionate developer with a focus on [insert your main tech stack] and [your areas of expertise]. Here's a little about me:
+Welcome to my GitHub profile! I’m a passionate developer with a focus on web development, scalable applications, and a bit of AI/ML experimentation. Here's a little about me:
 
 - 🌟 **Core Skills:** JavaScript, TypeScript, React, Node.js, Python
 - 🚀 **Current Projects:** 
-  - [Project Name 1](https://github.com/tashua314/ProjectName1): Brief description of what it does or what it aims to solve.
-  - [Project Name 2](https://github.com/tashua314/ProjectName2): Another project with a short description.
+  - [My Custom Chatbot](https://github.com/tashua314/CustomChatbot): A chatbot interface built with SvelteKit and Tailwind CSS, integrated with Dify's chatbot API.
+  - [Dockerized Rails App](https://github.com/tashua314/Dockerized-Rails): A Rails app fully containerized with Docker, streamlining the deployment process with ease.
 - 💻 **Interests:**
   - Open-source contributions
   - Building scalable web applications
-  - Machine learning / AI
+  - Experimenting with machine learning and AI
+  - Developer experience & productivity enhancements
 
 ---
 
@@ -30,43 +31,31 @@ Welcome to my GitHub profile! I’m a passionate developer with a focus on [inse
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tashua314&layout=compact&theme=radical)](https://github.com/tashua314)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=tashua314&theme=radical)
+
 ---
 
 ## 🔧 Projects I'm Proud Of
 
 Here are some of the repositories I’ve worked on that I’m particularly proud of:
 
-- **[Project 1 Name](https://github.com/tashua314/ProjectName1):** Short description about the project and its impact.
-- **[Project 2 Name](https://github.com/tashua314/ProjectName2):** Brief description of this project and why it matters.
+- **[Custom Chatbot Interface](https://github.com/tashua314/CustomChatbot):** Built with SvelteKit and Tailwind CSS, this project integrates with Dify's chatbot API, offering a seamless chat experience with distinct user and bot messages.
+- **[Dockerized Rails App](https://github.com/tashua314/Dockerized-Rails):** A fully containerized Rails application using Docker and Docker Compose for streamlined development and deployment processes.
+- **[TypeScript Config Package](https://github.com/tashua314/typescript-config):** A reusable TypeScript configuration setup for scalable projects, enhancing developer productivity and ensuring consistency across the codebase.
 
 ---
 
 ## 🌱 Currently Learning
 
-I'm always looking to improve my skills and stay up-to-date with the latest technologies. Currently learning:
+I'm constantly expanding my skill set and learning about the latest technologies. Here’s what I’m currently focusing on:
 
-- [New technology or framework you're focusing on]
-- [Any other relevant skills or languages you're exploring]
+- **Advanced TypeScript:** Exploring generics, utility types, and type-level programming.
+- **NestJS:** Diving deeper into backend development with NestJS for building efficient and scalable server-side applications.
+- **Machine Learning:** Experimenting with Python and TensorFlow to build basic machine learning models for data-driven applications.
 
 ---
 
 ## 📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=web&logoColor=white&style=flat-square)](https://your-portfolio-link.com)
-
-
-<!--
-**tashua314/tashua314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![X](https://img.shields.io/badge/-X-1DA1F2?logo=x&logoColor=white&style=flat-square)](https://x.com/tashua314)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://instagram.com/yuchan314)
