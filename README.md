@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Tashua314
+# 👋 Hi there! I'm Yuta Takahashi
 
 Welcome to my GitHub profile! I’m a passionate developer with a focus on scalable applications, TypeScript, and modern web frameworks. Here's a little about me:
 
