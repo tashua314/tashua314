@@ -7,18 +7,18 @@ Welcome to my GitHub profile! I'm a developer focused on building scalable web a
   - [KoiTre Authentication](https://github.com/techguide-jp/koi-tre-auth): An authentication system built for KoiTre, focusing on security and scalability using modern web technologies.
 ## 💻 Interests:
   - Open-source contributions
-  - Building scalable web applications
+  - Developing cost-effective and scalable web applications
   - Experimenting with machine learning and AI
   - Developer experience & productivity enhancements
-  - Coaching individuals as a **relationship coach**, helping people navigate personal growth and relationship dynamics.
-  - **Organizational management**, focusing on leading teams, fostering collaboration, and optimizing workflows.
-  - Exploring and implementing methods of **empowerment**, both on an individual and organizational level, to help others reach their full potential.
+  - Working as a **romantic relationship coach**, helping people improve their love lives and partnerships.
+  - **Organizational management**, leading teams and optimizing workflows.
+  - Exploring methods of **empowerment** to help individuals and teams reach their full potential.
 
 ---
 
 ## 🏢 Organizations
 
-| Icon | Organization & Description |
+| Organization | Organization & Description |
 |------|----------------------------|
 | <a href="https://github.com/techguide-jp"><img src="https://img.shields.io/badge/-TechGuide%20JP-181717?logo=github&logoColor=white&style=for-the-badge" height="30"/></a> | Providing digital support and solutions for entrepreneurs and developers. I am the representative of this organization. |
 
