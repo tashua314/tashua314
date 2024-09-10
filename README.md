@@ -4,7 +4,8 @@ Welcome to my GitHub profile! I'm a developer focused on building scalable web a
 
 ## 🚀 **Current Projects:** 
   - [Gist Portfolio](https://github.com/tashua314/gist-portfolio): A modern portfolio to showcase Gist scripts, built with SvelteKit and Tailwind CSS.
-  - [KoiTre Authentication](https://github.com/techguide-jp/koi-tre-auth): An authentication system built for KoiTre, focusing on security and scalability using modern web technologies.
+  - [KoiTre Authentication](https://github.com/techguide-jp/koi-tre-auth): An authentication system built for KoiTre, leveraging Dify for AI-driven services. This system focuses on security, scalability, and seamless user experience by integrating Dify’s capabilities.
+modern web technologies.
 ## 💻 Interests:
   - Open-source contributions
   - Developing cost-effective and scalable web applications
