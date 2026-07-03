@@ -2,35 +2,38 @@
 
 TechGuide代表。Webアプリケーション開発、業務改善、自動化、イベント運営、個人向けサービスづくりを横断して活動しています。
 
-SvelteKit / TypeScript を使った実装、運用に乗る小さな仕組みづくり、事業やコミュニティの現場で使われ続けるプロダクト改善が得意です。コードを書くことだけでなく、要件整理、導線設計、顧客対応、チーム運営まで含めて、現場に合う形へ落とし込むことを大事にしています。
+SvelteKit / TypeScript を中心に、現場で使い続けられる小さな仕組みを作るのが得意です。要件整理、導線設計、顧客対応、チーム運営まで含めて、実装が運用に乗るところまで見ます。
 
-最近は、フリーランス・副業エンジニア向けに単価設計、案件選び、契約更新の実務知も整理しています。
+最近は、フリーランス・副業エンジニア向けに、単価設計、案件選び、契約更新、価値の伝え方も整理しています。
 
 -> [ValueGate Blog](https://blog.valuegate.tech/)
 
-## What I Do
+## 活動 / Work
 
-- Web application development with SvelteKit, TypeScript, Vue, Ruby, and Python
-- Small business tools, admin systems, and workflow automation
-- Event, community, and operations support for real-world teams
-- Product planning, UX flow design, and practical implementation support
-- Knowledge sharing around freelance engineering, pricing, projects, and contracts
+- SvelteKit / TypeScript を中心にした Web application development
+- 小規模事業、コミュニティ、イベント運営向けの業務改善ツールづくり
+- AI と自動化を使った、繰り返し作業の削減と情報整理
+- 顧客対応、導線設計、運用設計まで含めた product support
+- フリーランス・副業エンジニア向けの実務知の発信
 
-## Current Focus
+## 最近の関心 / Current Focus
 
-- Building maintainable SvelteKit applications
-- Turning messy operations into small, usable systems
-- Using AI and automation to reduce repetitive work
-- Supporting engineers and creators with practical decision-making tools
-- Writing about how engineers can communicate value beyond implementation work
+- 運用に乗る SvelteKit アプリケーション設計
+- 事業やコミュニティの「少し面倒な作業」を小さな仕組みに変えること
+- AI / automation を使った日々の仕事の圧縮
+- エンジニアが実装以外の価値を伝えるための言語化
+- 個人開発や小さなサービスを、ちゃんと使われる形まで持っていくこと
 
-## Projects / Organizations
+## 最近触っている公開PJ
 
-| Organization / Project | Description |
+| Project | What |
 | --- | --- |
-| [TechGuide JP](https://github.com/techguide-jp) | Digital support, product development, and practical automation for entrepreneurs, communities, and developers. |
-| [Gist Portfolio](https://github.com/tashua314/gist-portfolio) | A SvelteKit portfolio for showcasing Gist scripts and small technical assets. |
-| [KoiTre Authentication](https://github.com/techguide-jp/koi-tre-auth) | Authentication and AI-enabled service infrastructure for KoiTre. |
+| [techguide-jp/corporate](https://github.com/techguide-jp/corporate) | TechGuide の事業・実績発信用サイト。Svelte / content design |
+| [techguide-jp/techguide-jp](https://github.com/techguide-jp/techguide-jp) | TechGuide の公開サイト・周辺導線。TypeScript |
+| [techguide-jp/mac-clipy](https://github.com/techguide-jp/mac-clipy) | macOS clipboard manager inspired by Clipy。Swift |
+| [techguide-jp/growth-hack](https://github.com/techguide-jp/growth-hack) | 事業改善・実験運用まわりのツール。TypeScript |
+| [tashua314/random_presen](https://github.com/tashua314/random_presen) | ランダムなお題で短い発表を作る Svelte アプリ |
+| [tashua314/my-tetris](https://github.com/tashua314/my-tetris) | Svelte で作った Tetris-style game |
 
 ## Tech Stack
 
@@ -45,9 +48,12 @@ SvelteKit / TypeScript を使った実装、運用に乗る小さな仕組みづ
 
 ## GitHub Stats
 
-![Tashua314's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tashua314&show_icons=true&theme=radical)
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tashua314&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tashua314&layout=compact&theme=radical)](https://github.com/tashua314)
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tashua314&theme=github_dark" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tashua314&theme=github_dark" height="180" />
+</p>
 
 ## Contact
 
