@@ -8,6 +8,8 @@ SvelteKit / TypeScript を中心に、現場で使い続けられる小さな仕
 
 文章: [ValueGate Blog](https://blog.valuegate.tech/)
 
+![Profile views](https://komarev.com/ghpvc/?username=tashua314&style=flat-square&color=0e75b6&label=Profile%20views)
+
 ## 活動 / Work
 
 - SvelteKit / TypeScript を中心にした Web application development
